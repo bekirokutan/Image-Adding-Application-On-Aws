@@ -1,0 +1,9 @@
+RDS Setting:
+
+instance identifier: projedbinstance
+master username: projemaster
+password: master1234
+
+MySQL Table Setting:
+
+CREATE TABLE visitors (name VARCHAR(30), email VARCHAR(30), phone VARCHAR(30), photo VARCHAR(30));
